@@ -1,5 +1,3 @@
-import Header from './header';
-
 const Hero = () => {
     return (
             <div className="container text-center py-4 mt-5">
