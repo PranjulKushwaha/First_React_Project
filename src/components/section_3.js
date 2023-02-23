@@ -6,7 +6,7 @@ const SectionThree = () => {
             </h2>
             <p className="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet et saepe architecto vero consequuntur quis.</p>
             <div className="row py-4 mt-3">
-                <div className="  col-8  col-lg-4 py-2 mx-auto">
+                <div className=" col-12 col-md-8  col-lg-4 py-2 mx-auto">
                     <div className=" py-3 container bg-body-tertiary">
                         <img src={require('../assets/personOne.jpeg')} alt="" height="80" className=' mx-auto my-2 rounded-circle' />
                         <figure>
@@ -19,7 +19,7 @@ const SectionThree = () => {
                         </figure>
                     </div>
                 </div>
-                <div className="  col-8  col-lg-4 py-2 mx-auto">
+                <div className=" col-12 col-md-8  col-lg-4 py-2 mx-auto">
                     <div className=" py-3 container bg-body-tertiary">
                         <img src={require('../assets/personTwo.jpeg')} alt="" height="80" className=' mx-auto my-2 rounded-circle' />
                         <figure>
@@ -32,7 +32,7 @@ const SectionThree = () => {
                         </figure>
                     </div>
                 </div>
-                <div className="  col-8  col-lg-4 py-2 mx-auto">
+                <div className=" col-12 col-md-8  col-lg-4 py-2 mx-auto">
                     <div className=" py-3 container bg-body-tertiary">
                         <img src={require('../assets/personThree.jpeg')} alt="" height="80" className=' mx-auto my-2 rounded-circle' />
                         <figure>
