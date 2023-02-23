@@ -1,7 +1,7 @@
 const Hero = () => {
     return (
             <div className="container text-center py-4 mt-5">
-                <div className="col-8 mx-auto">
+                <div className=" col col-md-8 mx-auto">
 
                     <h1>Landing template for startups </h1>
                     <p className="text-muted" style={{ textAlign: 'justified' }}>
