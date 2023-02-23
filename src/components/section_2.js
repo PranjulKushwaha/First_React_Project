@@ -10,7 +10,7 @@ const SectionTwo = () => {
             </p>
 
             <div className="row flex-column-reverse flex-md-row py-5">
-                <div className="col-12 col-md-6 d-flex flex-column  justify-content-center px-2  text-start">
+                <div className="col-12 col-md-6 d-flex flex-column  justify-content-center p-4  text-start">
                     <p className="" style={{ color: 'var(--bs-purple)', fontFamily: 'cursive' }}>More Speed , Less Spend.</p>
                     <h3 className="fw-bolder">Keep Projects on shedule</h3>
                     <p className="">
@@ -33,7 +33,7 @@ const SectionTwo = () => {
                 <div className="col-12 col-md-6">
                     <img className="img-fluid" src={require('../assets/featureOne.png')} alt="" />
                 </div>
-                <div className="col-12 col-md-6 d-flex flex-column justify-content-center px-2  text-start">
+                <div className="col-12 col-md-6 d-flex flex-column justify-content-center p-4  text-start">
                     <p className="" style={{ color: 'var(--bs-purple)', fontFamily: 'cursive' }}>More Speed , Less Spend.</p>
                     <h3 className="fw-bolder">Keep Projects on shedule</h3>
                     <p className="">
@@ -50,7 +50,7 @@ const SectionTwo = () => {
 
 
             <div className="row flex-column-reverse flex-md-row py-5">
-                <div className="col-12 col-md-6 d-flex flex-column  justify-content-center px-2  text-start">
+                <div className="col-12 col-md-6 d-flex flex-column  justify-content-center p-4  text-start">
                     <p className="" style={{ color: 'var(--bs-purple)', fontFamily: 'cursive' }}>More Speed , Less Spend.</p>
                     <h3 className="fw-bolder">Keep Projects on shedule</h3>
                     <p className="">
